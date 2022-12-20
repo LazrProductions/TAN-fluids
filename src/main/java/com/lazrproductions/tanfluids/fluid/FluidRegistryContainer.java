@@ -76,7 +76,7 @@ public class FluidRegistryContainer {
     public FluidRegistryContainer(String name, FluidType.Properties typeProperties,
                                   int tint, Vector3f fogColor, @Nullable AdditionalProperties additionalProperties,
                                   BlockBehaviour.Properties blockProperties, Item.Properties itemProperties) {
-        this.typeProperties = typeProperties.descriptionId("block.tanfludis."+name);
+        this.typeProperties = typeProperties.descriptionId("block.tanfluids."+name);
         
         this.type = TanFluidsRegistry.FLUID_TYPES.register(name, () -> new WaterLikeFluidType(this.typeProperties) {
             @Override
