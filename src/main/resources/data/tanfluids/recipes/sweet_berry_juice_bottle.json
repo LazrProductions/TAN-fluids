@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"tanfluids:sweet_berry_juice_fluid_bucket"
+        },
+        {
+            "item":"minecraft:glass_bottle"
+        },
+        {
+            "item":"minecraft:glass_bottle"
+        },
+        {
+            "item":"minecraft:glass_bottle"
+        }
+    ],
+    "result": {
+        "item":"toughasnails:sweet_berry_juice",
+        "count": 3
+    }
+}

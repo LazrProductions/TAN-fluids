@@ -5,6 +5,7 @@
     "minVersion": "0.8",
     "refmap": "tanfluids.refmap.json",
     "mixins": [
+        "DrinkItemMixin"
     ],
     "injectors": {
         "defaultRequire": 1

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"tanfluids:chorus_fruit_juice_fluid_bucket"
+        },
+        {
+            "item":"minecraft:glass_bottle"
+        },
+        {
+            "item":"minecraft:glass_bottle"
+        },
+        {
+            "item":"minecraft:glass_bottle"
+        }
+    ],
+    "result": {
+        "item":"toughasnails:chorus_fruit_juice",
+        "count": 3
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"minecraft:bucket"
+        },
+        {
+            "item":"toughasnails:dirty_water_bottle"
+        },
+        {
+            "item":"toughasnails:dirty_water_bottle"
+        },
+        {
+            "item":"toughasnails:dirty_water_bottle"
+        }
+    ],
+    "result": {
+        "item":"tanfluids:dirty_water_fluid_bucket",
+        "count":1
+    }
+}

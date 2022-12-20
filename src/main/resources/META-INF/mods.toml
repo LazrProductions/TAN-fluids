@@ -1,11 +1,11 @@
 modLoader="javafml"
 loaderVersion="[34,)"
 license="GNU General Public License 3"
-issueTrackerURL="https://github.com/LazrProductions/extravanilla/issues"
+issueTrackerURL="https://github.com/LazrProductions/tanfluids/issues"
 
 [[mods]]
 modId="tanfluids"
-version="2.1.10"
+version="1.0.0"
 displayName="TAN Fluids"
 updateJSONURL=""
 displayURL=""
@@ -14,14 +14,20 @@ authors="LazrProductions"
 credits=""
 description="A simple mod that adds fluids for the Tough as Nails liquids."
 
-[[dependencies.extravanilla]]
+[[dependencies.tanfluids]]
     modId="forge"
     mandatory=true
     versionRange="[41.1.0,)"
     ordering="NONE"
     side="BOTH"
-[[dependencies.extravanilla]]
+[[dependencies.tanfluids]]
     modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tanfluids]]
+    modId="toughasnails"
     mandatory=true
     versionRange="[1.19,1.20)"
     ordering="NONE"

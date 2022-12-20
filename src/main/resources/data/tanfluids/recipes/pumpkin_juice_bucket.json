@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"minecraft:bucket"
+        },
+        {
+            "item":"toughasnails:pumpkin_juice"
+        },
+        {
+            "item":"toughasnails:pumpkin_juice"
+        },
+        {
+            "item":"toughasnails:pumpkin_juice"
+        }
+    ],
+    "result": {
+        "item":"tanfluids:pumpkin_juice_fluid_bucket",
+        "count":1
+    }
+}

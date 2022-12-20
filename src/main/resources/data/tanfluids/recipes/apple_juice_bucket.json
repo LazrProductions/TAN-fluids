@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item":"minecraft:bucket"
+        },
+        {
+            "item":"toughasnails:apple_juice"
+        },
+        {
+            "item":"toughasnails:apple_juice"
+        },
+        {
+            "item":"toughasnails:apple_juice"
+        }
+    ],
+    "result": {
+        "item":"tanfluids:apple_juice_fluid_bucket",
+        "count":1
+    }
+}
