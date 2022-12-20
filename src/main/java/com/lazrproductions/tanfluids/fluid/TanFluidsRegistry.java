@@ -24,13 +24,13 @@ public class TanFluidsRegistry {
     public static final WaterLikeFluidType.Properties defaultFluidProperties = WaterLikeFluidType.Properties.create()
         .fallDistanceModifier(0F)
         .canExtinguish(true)
-        .canConvertToSource(true)
+        .canConvertToSource(false)
         .supportsBoating(true)
         .sound(SoundActions.BUCKET_FILL, SoundEvents.BUCKET_FILL)
         .sound(SoundActions.BUCKET_EMPTY, SoundEvents.BUCKET_EMPTY)
         .sound(SoundActions.FLUID_VAPORIZE, SoundEvents.FIRE_EXTINGUISH)
         .motionScale(0.008f)
-        .canHydrate(true)
+        .canHydrate(false)
         .canPushEntity(true)
         .canSwim(true);
     // the default additional properties for a water-like fluid
