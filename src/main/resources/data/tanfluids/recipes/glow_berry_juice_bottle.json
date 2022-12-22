@@ -3,18 +3,6 @@
     "ingredients": [
         {
             "item":"tanfluids:glow_berry_juice_fluid_bucket"
-        },
-        {
-            "item":"minecraft:glass_bottle"
-        },
-        {
-            "item":"minecraft:glass_bottle"
-        },
-        {
-            "item":"minecraft:glass_bottle"
-        },
-        {
-            "item":"minecraft:glass_bottle"
         }
     ],
     "result": {
