@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "tanfluids:items/chorus_fruit_juice_bucket"
+      "layer0": "tanfluids:item/chorus_fruit_juice_bucket"
     }
   }

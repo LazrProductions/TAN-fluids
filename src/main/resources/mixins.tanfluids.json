@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "com.lazrproductions.tanfluids.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "mixin.tanfluids.refmap.json",
+    "server": [
+    ],
+    "mixins": [
+    ],
+    "client": [
+    ],
+    "minVersion": "0.8"
+}

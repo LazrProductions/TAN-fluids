@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "tanfluids:items/purified_water_bucket"
+      "layer0": "tanfluids:item/purified_water_bucket"
     }
   }

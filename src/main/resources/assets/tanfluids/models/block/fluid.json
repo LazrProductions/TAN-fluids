@@ -1,6 +1,6 @@
 {
   "textures": {
-      "particle": "tanfluids:blocks/fluid_still"
+      "particle": "tanfluids:block/fluid_still"
   }
 }
 

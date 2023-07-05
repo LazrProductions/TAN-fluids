@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "tanfluids:items/pumpkin_juice_bucket"
+      "layer0": "tanfluids:item/pumpkin_juice_bucket"
     }
   }

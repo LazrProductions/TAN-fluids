@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "tanfluids:items/glow_berry_juice_bucket"
+      "layer0": "tanfluids:item/glow_berry_juice_bucket"
     }
   }

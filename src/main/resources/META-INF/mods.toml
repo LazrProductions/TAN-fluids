@@ -23,12 +23,12 @@ description="A simple mod that adds fluids for the Tough as Nails liquids."
 [[dependencies.tanfluids]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19,1.20)"
+    versionRange="[1.20,1.21)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.tanfluids]]
     modId="toughasnails"
     mandatory=true
-    versionRange="[1.19,1.20)"
+    versionRange="[1.20,1.21)"
     ordering="NONE"
     side="BOTH"

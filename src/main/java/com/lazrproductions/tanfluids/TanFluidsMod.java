@@ -24,7 +24,7 @@ import org.slf4j.Logger;
 public class TanFluidsMod
 {
     public static final String MODID = "tanfluids";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.1.0";
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, TanFluidsMod.MODID);

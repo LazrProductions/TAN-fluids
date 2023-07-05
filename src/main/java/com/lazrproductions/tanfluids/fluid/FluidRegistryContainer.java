@@ -3,7 +3,7 @@ package com.lazrproductions.tanfluids.fluid;
 import com.lazrproductions.tanfluids.TanFluidsMod;
 import com.mojang.blaze3d.shaders.FogShape;
 import com.mojang.blaze3d.systems.RenderSystem;
-import com.mojang.math.Vector3f;
+import org.joml.Vector3f;
 import net.minecraft.client.Camera;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ClientLevel;
@@ -86,9 +86,9 @@ public class FluidRegistryContainer {
                                 TanFluidsMod.MODID,
                                 name
                         )
-                        .still("fluid","blocks/"+name)
-                        .flowing("fluid","blocks/"+name)
-                        .overlay("fluid","blocks/"+name)
+                        .still("fluid","block/"+name)
+                        .flowing("fluid","block/"+name)
+                        .overlay("fluid","block/"+name)
                         .tint(tint)
                         .fogColor(fogColor.x(), fogColor.y(), fogColor.z()));
                 consumer.accept(c.get());

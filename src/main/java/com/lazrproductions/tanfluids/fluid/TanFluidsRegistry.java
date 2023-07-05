@@ -1,7 +1,7 @@
 package com.lazrproductions.tanfluids.fluid;
 
 import com.lazrproductions.tanfluids.TanFluidsMod;
-import com.mojang.math.Vector3f;
+import org.joml.Vector3f;
 
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.world.item.Item;
@@ -14,7 +14,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fluids.FluidType;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
-import toughasnails.util.inventory.ItemGroupTAN;
 
 public class TanFluidsRegistry {
     public static final DeferredRegister<FluidType> FLUID_TYPES = DeferredRegister.create(ForgeRegistries.Keys.FLUID_TYPES, TanFluidsMod.MODID);
@@ -37,7 +36,6 @@ public class TanFluidsRegistry {
     public static final FluidRegistryContainer.AdditionalProperties defaultAdditionalProperties = new FluidRegistryContainer.AdditionalProperties(){};
     // default Item Properties for bucket items
     public static final Item.Properties defaultBucketProperties = new Item.Properties()
-    .tab(ItemGroupTAN.INSTANCE)
     .stacksTo(1)
     .craftRemainder(Items.BUCKET);
 
