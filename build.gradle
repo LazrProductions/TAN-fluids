@@ -93,6 +93,8 @@ dependencies {
 
     implementation fg.deobf("com.github.glitchfiend:ToughAsNails:${tan_mc_version}-${tan_version}")
 
+    compileOnly fg.deobf("curse.maven:create-328085:4626108")
+
     // Apply Mixin AP
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }

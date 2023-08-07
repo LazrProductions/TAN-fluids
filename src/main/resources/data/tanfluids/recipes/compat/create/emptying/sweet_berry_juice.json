@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "toughasnails:sweet_berry_juice"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "fluid": "tanfluids:sweet_berry_juice_fluid_source",
+        "amount": 250
+      }
+    ]
+  }

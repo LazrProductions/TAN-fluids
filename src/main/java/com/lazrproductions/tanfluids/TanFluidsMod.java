@@ -2,6 +2,7 @@ package com.lazrproductions.tanfluids;
 
 import com.lazrproductions.tanfluids.fluid.TanFluidsRegistry;
 import com.mojang.logging.LogUtils;
+import com.simibubi.create.foundation.utility.CreateRegistry;
 
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
@@ -11,6 +12,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
@@ -24,7 +26,7 @@ import org.slf4j.Logger;
 public class TanFluidsMod
 {
     public static final String MODID = "tanfluids";
-    public static final String VERSION = "1.1.0";
+    public static final String VERSION = "1.1.1";
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, TanFluidsMod.MODID);
@@ -39,6 +41,11 @@ public class TanFluidsMod
 
         BLOCKS.register(modEventBus);
         ITEMS.register(modEventBus);
+
+        if(ModList.get().isLoaded("create"))
+        {
+            LOGGER.info("Registering TAN fluids Create compatability");
+        }
 
         TanFluidsRegistry.register(modEventBus);
         MinecraftForge.EVENT_BUS.register(this);

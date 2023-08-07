@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "fluid": "tanfluids:purified_water_fluid_source",
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "item": "tanfluids:purified_water_fluid_bucket"
+      }
+    ]
+  }

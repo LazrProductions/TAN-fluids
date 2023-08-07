@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\Gabe Trim\\Desktop\\MInecraft Mods\\TAN Fluids\\TAN-fluidsrunClientTAN-fluids",
+			"script": "runClient",
+			"description": "",
+			"group": "forgegradle runs",
+			"project": "TAN-fluids",
+			"buildFile": "C:\\Users\\Gabe Trim\\Desktop\\MInecraft Mods\\TAN Fluids\\TAN-fluids\\build.gradle",
+			"rootProject": "TAN-fluids",
+			"projectFolder": "c:\\Users\\Gabe Trim\\Desktop\\MInecraft Mods\\TAN Fluids\\TAN-fluids",
+			"workspaceFolder": "c:\\Users\\Gabe Trim\\Desktop\\MInecraft Mods\\TAN Fluids\\TAN-fluids",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: runClient"
+		}
+	]
+}

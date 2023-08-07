@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "tanfluids:apple_juice_fluid_bucket"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "fluid": "tanfluids:apple_juice_fluid_source",
+        "amount": 1000
+      }
+    ]
+  }
