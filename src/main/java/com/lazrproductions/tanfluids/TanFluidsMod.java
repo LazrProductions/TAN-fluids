@@ -58,28 +58,28 @@ public class TanFluidsMod
             ItemBlockRenderTypes.setRenderLayer(ModFluids.DIRTY_WATER_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.PURIFIED_WATER_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.PURIFIED_WATER_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.PURIFIED_WATER_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.APPLE_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.APPLE_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.APPLE_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.CACTUS_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.CACTUS_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.CACTUS_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.CHORUS_FRUIT_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.CHORUS_FRUIT_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.CHORUS_FRUIT_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.GLOW_BERRY_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.GLOW_BERRY_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.GLOW_BERRY_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.MELON_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.MELON_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.MELON_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.PUMPKIN_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.PUMPKIN_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.PUMPKIN_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
 
             ItemBlockRenderTypes.setRenderLayer(ModFluids.SWEET_BERRY_JUICE_FLUID.get(), RenderType.translucent());
-            ItemBlockRenderTypes.setRenderLayer(ModFluids.SWEET_BERRY_JUICE_FLUID.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(ModFluids.SWEET_BERRY_JUICE_FLUID_FLOWING.get(), RenderType.translucent());
         }
     }
 }
