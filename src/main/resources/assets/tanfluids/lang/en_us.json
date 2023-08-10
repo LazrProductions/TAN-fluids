@@ -1,13 +1,13 @@
 {
-    "item.tanfluids.dirty_water_fluid_bucket": "Bucket of Dirty Water",
-    "item.tanfluids.purified_water_fluid_bucket": "Bucket of Purified Water",
-    "item.tanfluids.apple_juice_fluid_bucket": "Bucket of Apple Juice",
-    "item.tanfluids.cactus_juice_fluid_bucket": "Bucket of Cactus Juice",
-    "item.tanfluids.chorus_fruit_juice_fluid_bucket": "Bucket of Chorus Fruit Juice",
-    "item.tanfluids.glow_berry_juice_fluid_bucket": "Bucket of Glow Berry Juice",
-    "item.tanfluids.melon_juice_fluid_bucket": "Bucket of Melon Juice",
-    "item.tanfluids.pumpkin_juice_fluid_bucket": "Bucket of Pumpkin Juice",
-    "item.tanfluids.sweet_berry_juice_fluid_bucket": "Bucket of Sweet Berry Juice",
+    "item.tanfluids.dirty_water_bucket": "Bucket of Dirty Water",
+    "item.tanfluids.purified_water_bucket": "Bucket of Purified Water",
+    "item.tanfluids.apple_juice_bucket": "Bucket of Apple Juice",
+    "item.tanfluids.cactus_juice_bucket": "Bucket of Cactus Juice",
+    "item.tanfluids.chorus_fruit_juice_bucket": "Bucket of Chorus Fruit Juice",
+    "item.tanfluids.glow_berry_juice_bucket": "Bucket of Glow Berry Juice",
+    "item.tanfluids.melon_juice_bucket": "Bucket of Melon Juice",
+    "item.tanfluids.pumpkin_juice_bucket": "Bucket of Pumpkin Juice",
+    "item.tanfluids.sweet_berry_juice_bucket": "Bucket of Sweet Berry Juice",
 
 
     "fluid_type.tanfluids.dirty_water_fluid": "Dirty Water",

@@ -16,7 +16,7 @@
         "item": "minecraft:glass_bottle"
       },
       {
-        "fluid": "tanfluids:melon_juice_fluid_source",
+        "fluid": "tanfluids:melon_juice_fluid",
         "amount": 250
       }
     ]

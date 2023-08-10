@@ -15,7 +15,7 @@
     "results": [
         {
             "amount": 250,
-            "fluid": "tanfluids:purified_water_fluid_source"
+            "fluid": "tanfluids:purified_water_fluid"
         }
     ],
     "heatRequirement": "heated"

@@ -16,7 +16,7 @@
         "item": "minecraft:glass_bottle"
       },
       {
-        "fluid": "tanfluids:cactus_juice_fluid_source",
+        "fluid": "tanfluids:cactus_juice_fluid",
         "amount": 250
       }
     ]

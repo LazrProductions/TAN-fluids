@@ -11,7 +11,7 @@
         "item": "minecraft:glass_bottle"
       },
       {
-        "fluid": "tanfluids:chorus_fruit_juice_fluid_source",
+        "fluid": "tanfluids:chorus_fruit_juice_fluid",
         "amount": 250
       }
     ],

@@ -16,7 +16,7 @@
         "item": "minecraft:glass_bottle"
       },
       {
-        "fluid": "tanfluids:purified_water_fluid_source",
+        "fluid": "tanfluids:purified_water_fluid",
         "amount": 250
       }
     ]

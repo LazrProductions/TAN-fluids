@@ -8,7 +8,7 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "fluid": "tanfluids:purified_water_fluid_source",
+            "fluid": "tanfluids:purified_water_fluid",
             "amount": 250
         },
         {
@@ -21,7 +21,7 @@
     "results": [
         {
             "amount": 250,
-            "fluid": "tanfluids:cactus_juice_fluid_source"
+            "fluid": "tanfluids:cactus_juice_fluid"
         }
     ],
     "heatRequirement": "none"

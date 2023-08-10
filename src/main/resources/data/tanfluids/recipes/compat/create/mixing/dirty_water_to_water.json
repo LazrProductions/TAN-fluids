@@ -8,7 +8,7 @@
     "type": "create:mixing",
     "ingredients": [
         {
-            "fluid": "tanfluids:dirty_water_fluid_source",
+            "fluid": "tanfluids:dirty_water_fluid",
             "amount": 250
         }
     ],

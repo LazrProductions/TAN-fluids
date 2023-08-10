@@ -2,7 +2,7 @@ plugins {
     id 'eclipse'
     id 'idea'
     id 'maven-publish'
-    id 'net.minecraftforge.gradle' version '[6.0,6.2)'
+    id 'net.minecraftforge.gradle' version '[5.0,)'
     id 'org.spongepowered.mixin' version '0.7.+'
 }
 
@@ -91,10 +91,9 @@ dependencies {
 
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
 
-    implementation fg.deobf("com.github.glitchfiend:ToughAsNails:${tan_mc_version}-${tan_version}")
-
-    compileOnly fg.deobf("curse.maven:create-328085:4626108")
-
+    //implementation fg.deobf("com.github.glitchfiend:ToughAsNails:${tan_mc_version}-${tan_version}")
+    implementation fg.deobf("curse.maven:tough-as-nails-246391:3804267")
+    
     // Apply Mixin AP
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }

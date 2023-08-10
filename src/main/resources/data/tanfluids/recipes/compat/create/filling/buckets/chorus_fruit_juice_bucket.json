@@ -1,5 +1,6 @@
 {
-    "conditions": [
+
+  "conditions": [
       {
         "type": "forge:mod_loaded",
         "modid": "create"
@@ -11,7 +12,7 @@
         "item": "minecraft:bucket"
       },
       {
-        "fluid": "tanfluids:chorus_fruit_juice_fluid_source",
+        "fluid": "tanfluids:chorus_fruit_juice_fluid",
         "amount": 1000
       }
     ],

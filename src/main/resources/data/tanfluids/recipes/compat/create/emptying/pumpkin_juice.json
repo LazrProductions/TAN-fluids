@@ -16,7 +16,7 @@
         "item": "minecraft:glass_bottle"
       },
       {
-        "fluid": "tanfluids:pumpkin_juice_fluid_source",
+        "fluid": "tanfluids:pumpkin_juice_fluid",
         "amount": 250
       }
     ]
