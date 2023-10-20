@@ -8,7 +8,7 @@
     "type": "create:emptying",
     "ingredients": [
       {
-        "item": "tanfluids:chorus_fruit_jucie_fluid_bucket"
+        "item": "tanfluids:chorus_fruit_juice_fluid_bucket"
       }
     ],
     "results": [
