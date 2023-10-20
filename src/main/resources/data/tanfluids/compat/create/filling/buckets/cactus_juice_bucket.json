@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "fluid": "tanfluids:cactus_juice_fluid_source",
+        "amount": 1000
+      }
+    ],
+    "results": [
+      {
+        "item": "tanfluids:cactus_juice_fluid_bucket"
+      }
+    ]
+  }

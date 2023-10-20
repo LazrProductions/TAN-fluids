@@ -1,0 +1,22 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "fluid": "minecraft:water",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "amount": 250,
+            "fluid": "tanfluids:purified_water_fluid_source"
+        }
+    ],
+    "heatRequirement": "heated"
+}

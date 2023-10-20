@@ -1,0 +1,28 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "fluid": "tanfluids:purified_water_fluid_source",
+            "amount": 250
+        },
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "results": [
+        {
+            "amount": 250,
+            "fluid": "tanfluids:glow_berry_juice_fluid_source"
+        }
+    ],
+    "heatRequirement": "none"
+}

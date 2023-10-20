@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "fluid": "tanfluids:purified_water_fluid_source",
+        "amount": 250
+      }
+    ],
+    "results": [
+      {
+        "item": "toughasnails:purified_water_bottle"
+      }
+    ]
+  }

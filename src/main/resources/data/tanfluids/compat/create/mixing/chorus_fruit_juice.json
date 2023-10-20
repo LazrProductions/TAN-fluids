@@ -1,0 +1,28 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "create"
+        }
+    ],
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "fluid": "tanfluids:purified_water_fluid_source",
+            "amount": 250
+        },
+        {
+            "item": "minecraft:chorus_fruit"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "results": [
+        {
+            "amount": 250,
+            "fluid": "tanfluids:chorus_fruit_juice_fluid_source"
+        }
+    ],
+    "heatRequirement": "none"
+}

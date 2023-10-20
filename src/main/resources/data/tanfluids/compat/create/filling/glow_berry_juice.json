@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "fluid": "tanfluids:glow_berry_juice_fluid_source",
+        "amount": 250
+      }
+    ],
+    "results": [
+      {
+        "item": "toughasnails:glow_berry_juice"
+      }
+    ]
+  }

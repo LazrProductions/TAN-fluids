@@ -1,0 +1,23 @@
+{
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create"
+      }
+    ],
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "toughasnails:melon_juice"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "fluid": "tanfluids:melon_juice_fluid_source",
+        "amount": 250
+      }
+    ]
+  }
