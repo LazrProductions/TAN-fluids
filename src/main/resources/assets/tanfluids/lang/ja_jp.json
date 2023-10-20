@@ -1,0 +1,20 @@
+{
+    "item.tanfluids.dirty_water_fluid_bucket": "汚れた水入りバケツ",
+    "item.tanfluids.purified_water_fluid_bucket": "浄水入りバケツ",
+    "item.tanfluids.apple_juice_fluid_bucket": "リンゴジュース入りバケツ",
+    "item.tanfluids.cactus_juice_fluid_bucket": "サボテンジュース入りバケツ",
+    "item.tanfluids.chorus_fruit_juice_fluid_bucket": "コーラスフルーツジュース入りバケツ",
+    "item.tanfluids.glow_berry_juice_fluid_bucket": "グロウベリージュース入りバケツ",
+    "item.tanfluids.melon_juice_fluid_bucket": "スイカジュース入りバケツ",
+    "item.tanfluids.pumpkin_juice_fluid_bucket": "カボチャジュース入りバケツ",
+    "item.tanfluids.sweet_berry_juice_fluid_bucket": "スイートベリージュース入りバケツ",
+    "fluid_type.tanfluids.dirty_water_fluid": "汚れた水",
+    "fluid_type.tanfluids.purified_water_fluid": "浄水",
+    "fluid_type.tanfluids.apple_juice_fluid": "リンゴジュース",
+    "fluid_type.tanfluids.cactus_juice_fluid": "サボテンジュース",
+    "fluid_type.tanfluids.chorus_fruit_juice_fluid": "コーラスフルーツジュース",
+    "fluid_type.tanfluids.glow_berry_juice_fluid": "グロウベリージュース",
+    "fluid_type.tanfluids.melon_juice_fluid": "スイカジュース",
+    "fluid_type.tanfluids.pumpkin_juice_fluid": "カボチャジュース",
+    "fluid_type.tanfluids.sweet_berry_juice_fluid": "スイートベリージュース"
+}
